@@ -1,0 +1,219 @@
+@media only screen and (max-with:600px) {
+    body{
+        border: 10px solid red;
+     background-color: #000;
+    }
+}
+.ii {
+    width: 122px;
+    height: 53px;
+}
+.main_top p {
+    font-family: 'Raleway';
+    font-weight: 500;
+    margin-top:20px;
+}
+.pp {
+    display: flex;
+    gap: 40px;
+    margin-left: 143px;
+}
+.ins {
+    margin-top: 15px;
+    width:24px ;
+    height: 24px;
+    margin-left: 146px;
+}
+.face {
+    margin-top: 16px;
+    width:10px ;
+    height: 20.57px;
+    margin-left: 15px;
+}
+.tell {
+    margin-top: 17px;
+    margin-left: 67px;  
+    width: 12.83px;
+    height: 20.17px;
+}
+.nomer {
+    margin-left: 7px;
+}
+.main_centr h1 {
+    color: #fff;
+    padding-top: 120px;
+    padding-left: 550px;
+    font-size: 56px;
+    width: 446px;
+    height: 80px;
+}
+.mi {
+    /* margin-bottom: 500px; */
+    width:537px;
+    height:81px;
+    font-size:18px;
+    color: #fff;
+    margin-left: 531px;
+}
+.main_centr button {
+    background-color: #AE7B3C;
+    width:260px;
+    height:60px;
+    font-size:16px;
+    font-family: 'Raleway';
+    font-weight: 700;
+    border: 0px;
+    margin-left: 645px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.tiziqli {
+    display: flex;
+    margin-top: 200px;
+    border-top: 2px solid #807c77;
+    width:1200px;
+    height: 57px;
+    margin-left: 200px;
+}
+.tiziqli img {
+    width: 20px;
+}
+.rad p:hover {
+    color: #fff;
+    border: 1px solid #fff;
+}
+.ko {
+    margin-left:25px;
+    rotate: 180deg;
+}
+.rad {
+    margin-top: 25px;
+    display: flex;
+    margin-left: 900px;
+    gap:15px;
+}
+.tiziqli p {
+    color: #807c77;
+    /* display: flex; */
+    padding-top: 5px;
+    text-align: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1px solid #807c77;
+}
+.main_komponent h1 {
+    margin-top: 140px;
+    margin-left: 556px;
+    width: 488px;
+    height: 58px;
+    font-family: 'Raleway';
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.bbir {
+    width: 27px;
+    height: 24px;
+    top: 1058px;
+    left: 230px;
+    opacity: 50%;
+    font-family: 'Raleway';
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left:30px;
+}
+.bir {
+    margin-top: 57px;
+    margin-left: 200px;
+}
+.diz {
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 196px;
+    height: 24px;
+    font-family: 'Raleway';
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.bir img {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 354px;
+    height: 320px;
+}
+.tiziq {
+    position: absolute;
+    /* margin-top: 278px; */
+    top:1265px;
+    margin-left: -230px;
+    width: 458px;
+    border: 1px;
+    height: 1px;
+    rotate: 90deg;
+    background-color:#d4d5d3;
+}
+.main_birlik {
+    gap: 50px;
+    display: flex;
+}
+.iki img {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 354px;
+    height: 320px;
+}
+.iki {
+    margin-top: 57px;
+}
+.uch {
+    margin-top: 57px;
+}
+.uch img {
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 354px;
+    height: 320px;
+}
+.main_tex {
+    margin-top: 240px;
+    background-color: #3d4a39;
+}
+.main_tex h1 {
+     padding-top: 100px;
+    margin-left: 537px;
+    width: 526px;
+    height: 58px;
+    font-family: 'Raleway';
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 58px;
+}
+.bi {
+    margin-top: 150px;
+    margin-left: 330px;
+}
+.bi p {
+    width: 108px;
+    height: 31px;
+    font-family: 'Raleway';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 31px;
+    color: #fff;
+    opacity: 50%;
+}
+.main_leftt{
+display: flex;
+}
+.main_right {
+    display: flex;
+}
